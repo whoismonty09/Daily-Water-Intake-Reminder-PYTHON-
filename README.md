@@ -49,4 +49,4 @@ python water_reminder.py
 ---
 
 ## 👨‍💻 Author
-Developed by **Your Name**
+Developed by 
